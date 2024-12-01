@@ -9,6 +9,6 @@ or digitally. Blockchain records provide a convenient way to store the digital a
 inbuilt digital asset and identity mechanism.
 
 ## NEO Platform
-NEO provides a convenient way to represent and manage digital assets and identity to achieve a smart economy.
+NEO provides a convenient way to represent and manage digital assets and identity to achieve a smart economy
  
  
