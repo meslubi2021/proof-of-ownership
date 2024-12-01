@@ -1,6 +1,6 @@
 ## Building the smart contract
 
-`build poo.py test 0710 05 True False query ["f572f8ce40bf97b56bad1c6f8d62552b8b066039a9835f294ea4826629278df3"] `
+`build poo.py test 0710 05 True False query ["f572f8ce40bf97b56bad1c6f8d62552b8b066039a9835f294ea4826629278df3"]`
 
 ## Importing the smart contract
 
